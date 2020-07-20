@@ -1,0 +1,13 @@
+body, html {
+    height: 100%;   
+    margin: 0;
+    overflow: hidden;
+  }
+
+.main-img {
+    background-image: url(../img/untitled.png);
+    height: 120%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
