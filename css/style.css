@@ -1,0 +1,39 @@
+body,
+html {
+    height: 100%;
+    margin: 0;
+    overflow: hidden;
+    color: #eee;
+    background-image: url("chrome://global/skin/media/imagedoc-darknoise.png");
+}
+
+.main-img {
+    background-image: url(../img/untitled.png);
+    height: 120%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.container {
+    position: relative;
+}
+
+img {
+    image-orientation: from-image;
+}
+
+img {
+    text-align: center;
+    position: absolute;
+    margin: auto;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+}
+
+#clip {
+    position: absolute;
+    clip: rect(0, 397px, 397px, 0);
+}
