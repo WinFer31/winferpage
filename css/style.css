@@ -36,5 +36,4 @@ img {
 #clip {
     position: absolute;
     clip: rect(0, 397px, 397px, 0);
-    /* clip: shape(top, right, bottom, left); NB 'rect' is the only available option */
 }
