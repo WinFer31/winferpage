@@ -4,7 +4,7 @@ html {
     margin: 0;
     overflow: hidden;
     color: #eee;
-    /* background-image: url("chrome://global/skin/media/imagedoc-darknoise.png"); */
+    background-image: url("chrome://global/skin/media/imagedoc-darknoise.png");
 }
 
 .main-img {
